@@ -13,9 +13,9 @@ The map is ideal for 3d printing because unlike a regular Earth depthmap, this m
 <p align="center">
   <img width="800" height="auto" src="./earthmap.jpg">
 </p>
-<p align="center">
+<p>
   This print uses the depthmap:
-</p
+</p>
 <p align="center">
   <img width="600" height="auto" src="./earthprint.png">
 </p>
