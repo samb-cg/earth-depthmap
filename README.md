@@ -1,6 +1,6 @@
 # earth-depthmap
 8k depth/displacement map of Earth.
-### How to download
+## How to download
 <p>
 The file is a 8k x 4k 32bit float .exr image so it's over 500mb and to big for github.<br>
 https://drive.google.com/file/d/1_x82u9F9q2M-E_NdmbRUhlA55iRJrk5v/view?usp=sharing <br>
